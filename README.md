@@ -13,10 +13,11 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - **C++**  
 - **Python**    
 - **SQL**
+- **HTML**
+- **CSS**
 
 ### **Areas of Expertise:**
 - Data Structures & Algorithms
-- Full-Stack Web Development
   
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Ramkumar056)
