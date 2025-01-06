@@ -9,10 +9,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - **AIR ROUTE SYSTEM**: The air route system streamlines flight management by enabling airlines and passengers to search flights, book tickets, manage schedules, and track flight details, ensuring efficient operations and a seamless experience.
 
 ## 🚀 Skills
-- C++, Python, JavaScript
-- Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+### **Languages:**
+- **C++**  
+- **Python**    
+- **SQL**
 
+### **Areas of Expertise:**
+- Data Structures & Algorithms
+- Full-Stack Web Development
+  
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Ramkumar056)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
