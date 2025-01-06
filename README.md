@@ -44,6 +44,16 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ---
 
+## 📸 Project Gallery
+
+Here are some of the key projects I’ve worked on:
+
+| Project Name         | Description                                                | Link                                   |
+| -------------------  | -------------------------------------------------------    | -------------------------------------- |
+| **Air Route System** | An optimized system for managing the flights and booking  | [View Project](https://example.com)     |
+
+
+
 <br> 
 > “Connecting journeys, simplifying skies – your gateway to seamless travel.” 
 >
