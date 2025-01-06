@@ -14,7 +14,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-Ramkumar056)
+- [GitHub](https://github.com/your-ramkumar056)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
@@ -39,5 +39,5 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ---
 
 <br> 
-> “"Connecting journeys, simplifying skies – your gateway to seamless travel."” 
+> “Connecting journeys, simplifying skies – your gateway to seamless travel.” 
 >
