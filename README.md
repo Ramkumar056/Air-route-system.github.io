@@ -53,14 +53,15 @@ Here are some of the key projects I’ve worked on:
 | **Air Route System** | An optimized system for managing the flights and booking  | [View Project](https://example.com)     |
 
 ---
+## ✨ Key Achievements:
+
+-✅ Enhanced flight efficiency, reducing delays by 30% through optimized air route planning.
+-✅ Improved passenger experience by streamlining ticket booking and flight tracking systems.
+-✅ Developed intelligent scheduling algorithms that reduced operational costs for airlines by 20%.
+
+---
 
 <br> 
 > “Connecting journeys, simplifying skies – your gateway to seamless travel.” 
 >
 
----
-
-## ✨ Key Achievements:
--✅ Enhanced flight efficiency, reducing delays by 30% through optimized air route planning.
--✅ Improved passenger experience by streamlining ticket booking and flight tracking systems.
--✅ Developed intelligent scheduling algorithms that reduced operational costs for airlines by 20%.
