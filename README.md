@@ -1,8 +1,3 @@
----
-layout: default
-title: Portfolio
----
-
 ## Portfolio
 
 ### Hello, I'm Ramkumar 👋
@@ -29,13 +24,28 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## Portfolio Topic
 
-**Course Name**: Design and Analysis of Algorithm  
-**Course Code**: 24ECSC205  
-**Name**: Ramkumar Manjalkar  
-**SRN**: 02FE23BCS051  
-**Course Instructor**: Prof. Vaishali Parab  
-**University**: KLE Technological University, Belagavi  
-**Portfolio Topic/Domain**: AIR ROUTE SYSTEM
+<dl>
+  <dt>Course Name</dt>
+  <dd>Design and Analysis of Algorithm</dd>
+  
+  <dt>Course Code</dt>
+  <dd>24ECSC205</dd>
+  
+  <dt>Name</dt>
+  <dd>Ramkumar Manjalkar</dd>
+  
+  <dt>SRN</dt>
+  <dd>02FE23BCS051</dd>
+  
+  <dt>Course Instructor</dt>
+  <dd>Prof. Vaishali Parab</dd>
+  
+  <dt>University</dt>
+  <dd>KLE Technological University, Belagavi</dd>
+  
+  <dt>Portfolio Topic/Domain</dt>
+  <dd>AIR ROUTE SYSTEM</dd>
+</dl>
 
 ---
 
