@@ -1,4 +1,3 @@
-# Air-route-system.github.io
 ## Portfolio
 
 ### Hello, I'm Ramkumar 👋
@@ -55,9 +54,9 @@ Here are some of the key projects I’ve worked on:
 ---
 ## ✨ Key Achievements:
 
--✅ Enhanced flight efficiency, reducing delays by 30% through optimized air route planning.
--✅ Improved passenger experience by streamlining ticket booking and flight tracking systems.
--✅ Developed intelligent scheduling algorithms that reduced operational costs for airlines by 20%.
+-✅ **Enhanced flight efficiency** reducing delays by 30% through optimized air route planning.
+-✅ **Improved passenger experience by streamlining ticket booking and flight tracking systems.**
+-✅ **Developed intelligent scheduling**algorithms that reduced operational costs for airlines by 20%.
 
 ---
 
