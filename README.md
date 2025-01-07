@@ -50,12 +50,4 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ---
 
-## ✨ Key Achievements:
-
-- ✅ **Enhanced flight efficiency**, reducing delays by 30% through optimized air route planning.  
-- ✅ **Improved passenger experience** by streamlining ticket booking and flight tracking systems.  
-- ✅ **Developed intelligent scheduling algorithms**, reducing operational costs for airlines by 20%.  
-
----
-
 > “Connecting journeys, simplifying skies – your gateway to seamless travel.”
