@@ -47,13 +47,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
   <dd>AIR ROUTE SYSTEM</dd>
 </dl>
 
----
-
-## 📸 Project Gallery
-
-| Project Name         | Description                                             | Link                    |
-|----------------------|---------------------------------------------------------|-------------------------|
-| **Air Route System** | An optimized system for managing flights and bookings. | [View Project](https://example.com) |
 
 ---
 
